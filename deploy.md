@@ -17,7 +17,7 @@
 
 3. Set environment variables in Railway dashboard:
    - MONGODB_URI: (your Atlas connection string)
-   - JWT_SECRET: BloodLink_Super_Secure_JWT_Secret_Key_2024_Production_Ready
+   - JWT_SECRET: (your secret)
    - NODE_ENV: production
    - PORT: 5001
 
